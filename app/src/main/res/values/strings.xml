@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MP</string>
+    <string name="Nickname">닉네임(최대 10자)</string>
+    <string name="ID">ID(최대 15자)</string>
+    <string name="email">\@gachon.ac.kr</string>
+    <string name="email_mail">이메일</string>
+    <string name="pass">비밀번호(최대 20자)</string>
+    <string name="password">비밀번호</string>
+    <string name="check">인증번호 확인</string>
+    <string name="ck_pass">중복확인</string>
+    <string name="sign">회원가입</string>
+    <string name="rec">인증하기</string>
+</resources>
+
