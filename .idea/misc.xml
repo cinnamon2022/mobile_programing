@@ -17,10 +17,12 @@
         <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/drawable/image.xml" value="0.1" />
         <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/drawable/login_border.xml" value="0.1" />
         <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/drawable/pass_icon.xml" value="0.1" />
-        <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/layout/board_1.xml" value="0.1897644927536232" />
-        <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/layout/board_2.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/drawable/round_button.xml" value="0.1625" />
+        <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/layout/board_1.xml" value="0.264" />
+        <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/layout/board_2.xml" value="0.2" />
         <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/layout/login.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/layout/main_buttons.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/layout/sign_up.xml" value="0.1897644927536232" />
         <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/layout/viewholder_category.xml" value="0.1897644927536232" />
         <entry key="..\:/Users/lihen/AndroidStudioProjects/MP/app/src/main/res/layout/viewholder_popular.xml" value="0.1897644927536232" />

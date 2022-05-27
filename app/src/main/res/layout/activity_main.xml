@@ -63,7 +63,7 @@ tools:context=".MainActivity">
                 app:srcCompat="@drawable/profile" />
 
             <EditText
-                android:id="@+id/editTextTextPersonName"
+                android:id="@+id/find_meeting"
                 android:layout_width="0dp"
                 android:layout_height="50dp"
                 android:layout_marginStart="32dp"
@@ -93,7 +93,7 @@ tools:context=".MainActivity">
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName">
+                app:layout_constraintTop_toBottomOf="@+id/find_meeting">
 
                 <ImageView
                     android:id="@+id/imageView4"

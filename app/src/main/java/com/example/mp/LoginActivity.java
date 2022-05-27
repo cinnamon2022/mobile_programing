@@ -29,7 +29,7 @@ public class LoginActivity extends AppCompatActivity {
                 if (mail.equals("") || password.equals("")) {
                     Toast.makeText(getApplicationContext(), "사용자 이메일과 비밀번호를 입력해주세요.", Toast.LENGTH_SHORT).show();
                 } else {
-                    Intent intent = new Intent(getApplicationContext(), MenuActivity.class);
+                    Intent intent = new Intent(getApplicationContext(), MainActivity.class);
 
                 }
 

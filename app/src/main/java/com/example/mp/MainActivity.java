@@ -41,7 +41,6 @@ public class MainActivity extends AppCompatActivity {
             public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
 
             }
-
             @Override
             public void onNothingSelected(AdapterView<?> adapterView) {
 
